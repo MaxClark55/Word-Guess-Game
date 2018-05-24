@@ -1,0 +1,22 @@
+body {
+    font-family: 'Special Elite', cursive;
+    font-size: 25px;
+    color: green;
+}
+#header{
+    width: 200px;
+    height: 150px;
+    
+}
+
+#guessedPasscodes {
+    font-family: 'Special Elite', cursive;
+    letter-spacing: 5px;
+    font-size: 60px;
+    color: green;
+}
+
+.container {
+    background-color: black;
+
+}
